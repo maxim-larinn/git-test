@@ -8,12 +8,5 @@ for  i in range (10)
 print(12345) 
 for  i in range (1034)
 
-print(123) 
-for  i in range (10)
-print(12345) 
-for  i in range (1034)
-
-print(123) 
-for  i in range (10)
-print(12345) 
-for  i in range (1034)
+Clion1233
+1234
